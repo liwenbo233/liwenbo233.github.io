@@ -6,11 +6,11 @@ tagline: 致力于写出更优雅的Java代码
 actionText: 日常工作，学习进阶 →
 actionLink: /java/
 features:
-- title: 无懈可击
-  details: 你为你写的每一行代码负责，正如你为你做的每一个决定买单。
-- title: 人生格言
-  details: 观念决定思路，思路决定出路。复杂的事情要简单做。简单的事情要认真做。认真的事情要重复做。重复的事情要创造性地做。
-- title: 青春励志
-  details: 我一路狂奔，渴望在拥挤匆忙的人群里找到一个和我相似的面孔，她和我有相似的命运。我可以在她的身上看到自己命运的参照，何去何从，不再那么仓皇。。
+- title: 当打之年
+  details: 人生天地间，忽如远行客。
+- title: 今天你博学了嘛
+  details: 儿时仰望星光，举手若能摘。于今七尺身，天高不可即。
+- title: 愿疫情早日结束
+  details: 平平安安过大年。
 footer: MIT Licensed | Copyright © 2020-present Li WenBo
 ---
