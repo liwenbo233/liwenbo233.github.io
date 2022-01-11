@@ -8,7 +8,7 @@ actionLink: /java/
 features:
 - title: 当打之年
   details: 人生天地间，忽如远行客。
-- title: 今天你博学了嘛
+- title: 今天你博学了吗?
   details: 儿时仰望星光，举手若能摘。于今七尺身，天高不可即。
 - title: 愿疫情早日结束
   details: 平平安安过大年。
